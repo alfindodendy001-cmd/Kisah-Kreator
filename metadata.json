@@ -1,0 +1,6 @@
+{
+  "name": "KisahKreator - YouTube Storytelling Scriptwriter Studio",
+  "description": "Studio naskah & strategi konten YouTube storytelling pengetahuan umum dengan hook 5 detik, ide judul & thumbnail, metadata SEO, serta storyboard narasi audiovisual.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
